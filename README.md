@@ -34,6 +34,3 @@ Throughout the project, the following steps were followed:
 7. Performance testing with various metrics
 
 The Random Forest algorithm was chosen due to its effectiveness in multi-class problems, good performance, fast learning, various hyperparameter options, resistance to overfitting, and automatic feature selection.
-
-# Results
-Even though my results were the same as the 1st place in the competition, I came 22nd in the rankings.
